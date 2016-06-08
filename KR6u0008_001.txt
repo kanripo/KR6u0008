@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:29.675223
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 妙法蓮華經廣量天地品第二十九
 #+PROPERTY: CBETA_ID T85n2872
 #+PROPERTY: ID KR6u0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2872
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0008_T_000-1355c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0008_T_001-1355c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2872¶
-
- 妙法蓮華經度量天地品第二¶
+No. 2872¶
+妙法蓮華經度量天地品第二¶
 十九¶
 ¶
 
 爾時觀世音菩薩摩□□□□□□□□服¶
-偏袒右肩頭面著地。為□作禮䠒跪合掌而¶
+偏袒右肩頭面著地。為□作禮䠒合掌而¶
 白佛言。世尊我等無量諸菩薩眾并及一切¶
 諸天人等。以於佛前廣聞諸法敷演解說妙¶
 法華經。心淨踊躍得未曾有。重白佛言。世¶
